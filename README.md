@@ -2,6 +2,8 @@
 
 A **ReactJS** web app styled with **FantaCSS** that guides users through a structured **30-day dunk training program** to increase vertical jump, strength, and explosiveness.
 
+🚀 **Live Demo:** [DunkGram](https://dunkgram.netlify.app/)
+
 ## 🚀 Features
 
 - **Daily Workout Plan** – Structured exercises focusing on jump mechanics, strength, and plyometrics.
